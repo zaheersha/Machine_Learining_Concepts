@@ -20,11 +20,4 @@ Machine_Learining_Concepts
 **Lesson 16 :** [Ensemble Methods](https://github.com/zaheersha/Machine_Learining_Concepts/blob/main/16.%20Ensemble%20Methods.ipynb)  
 
 ## Case Study of Classic ML Problems
-**Case 1 :** Linear Regression 
-**Case 2 :** Cancer Prediction  
-**Case 3 :** Online Learning
-**Case 4 :** Customer Churn Prediction
-**Case 5 :** Income Prediction
-**Case 6 :** Predicting Employee Exit 
-**Case 7 :** Face Generation
-**Case 8 :** Finding Similar Houses
+

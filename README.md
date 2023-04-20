@@ -1,7 +1,8 @@
 # Machine_Learining_Concepts
 Machine_Learining_Concepts
 
-# Machine Learning Codebook**Lesson 1 :** [Introduction to Numpy](https://github.com/zaheersha/Machine_Learining_Concepts/blob/main/1.%20NumPy.ipynb) [(Video)](https://www.edyoda.com/resources/videolisting/1263/)  
+# Machine Learning Codebook
+**Lesson 1 :** [Introduction to Numpy](https://github.com/zaheersha/Machine_Learining_Concepts/blob/main/1.%20NumPy.ipynb)  
 **Lesson 2 :** [Data Wrangling using Pandas](https://github.com/zaheersha/Machine_Learining_Concepts/blob/main/2.%20Pandas%20for%20Machine%20Learning.ipynb)  
 **Lesson 3 :** [Plotting in Python](https://github.com/zaheersha/Machine_Learining_Concepts/blob/main/3.%20Plotting.ipynb)  
 **Lesson 4 :** [Linear Models for Regression & Classification](https://github.com/zaheersha/Machine_Learining_Concepts/blob/main/4.%20Linear%20Models%20for%20Classification%20%26%20Regression.ipynb)  
